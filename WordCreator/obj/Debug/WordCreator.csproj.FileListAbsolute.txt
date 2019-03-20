@@ -1,0 +1,6 @@
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\WordCreator\WordCreator\bin\Debug\WordCreator.exe.config
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\WordCreator\WordCreator\bin\Debug\WordCreator.exe
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\WordCreator\WordCreator\bin\Debug\WordCreator.pdb
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\WordCreator\WordCreator\obj\Debug\WordCreator.csprojResolveAssemblyReference.cache
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\WordCreator\WordCreator\obj\Debug\WordCreator.exe
+\\officechihome21.office.adroot.bmogc.net\userdata21$\moleary\home\visual studio 2015\Projects\WordCreator\WordCreator\obj\Debug\WordCreator.pdb
