@@ -16,11 +16,7 @@ namespace WordCreator
         /*Method to display the list to the user*/
         public void printResults(Stack<String> valid)
         {
-            if (valid == null)
-            {
-                throw new NullReferenceException("Sorry there are no valid words");
-            }
-            else
+            try
             {
                 String options = null;
 
@@ -30,6 +26,13 @@ namespace WordCreator
                 }
                 String finalopt = options.Remove(options.LastIndexOf(','), 1);
                 Console.WriteLine("The longest valid set  is { " + finalopt + "}");
+            }
+            catch (NullReferenceException)
+            {
+                Console.WriteLine("Sorry there are no valid words");
+            }
+            catch (Exception e) {
+                Console.WriteLine(e);
             }
         }
 
